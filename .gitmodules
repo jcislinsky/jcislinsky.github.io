@@ -1,4 +1,4 @@
-[submodule "public"]
-	path = public
+[submodule "themes/casper"]
+	path = themes/casper
 	url = https://github.com/jcislinsky/hugo-theme-casper
 	branch = master
