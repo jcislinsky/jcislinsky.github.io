@@ -1,3 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^(.*)$ http://www.jancislinsky.cz/? [L,R=301]
