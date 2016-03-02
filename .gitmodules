@@ -1,9 +1,0 @@
-[submodule "themes/casper"]
-	path = themes/casper
-	url = https://github.com/jcislinsky/hugo-theme-casper
-	branch = master
-
-[submodule "public"]
-	path = public
-	url = https://github.com/jcislinsky/jcislinsky.github.io
-	branch = gp-pages
