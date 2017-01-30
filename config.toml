@@ -1,6 +1,6 @@
 BaseUrl= "https://www.jancislinsky.cz/"
 LanguageCode= "cs-cz"
-Title= "Jan Cislinsky"
+Title= "Jan Čislinský"
 # paginate = 5
 DisqusShortname = "jancislinsky"
 Copyright = "© 2017"
@@ -21,7 +21,7 @@ theme = "casper"
   myApp1Url = "http://apple.co/2jsfavB"
 
   cover = "images/cover.jpg"
-  author = "Jan Cislinsky"
+  author = "Jan Čislinský"
   bio= "iOS developer ve společnosti Etnetera a.s."
   authorlocation = ""
   authorwebsite = ""
