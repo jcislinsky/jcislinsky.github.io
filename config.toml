@@ -14,15 +14,21 @@ theme = "casper"
   url = "/"
   
 [params]
-  description = "iOS developer ve společnosti Etnetera a.s."
+  description = "Lead iOS developer ve společnosti Etnetera a.s."
+
   myApps = "Moje aplikace"
+
   myApp1Image = "images/app-zvednout-to.png"
   myApp1Name = "Zvednout to?"
   myApp1Url = "http://apple.co/2jsfavB"
 
+  myApp2Image = "images/app-siever.png"
+  myApp2Name = "Siever"
+  myApp2Url = "https://itunes.apple.com/us/app/siever/id1276667985?ls=1&mt=8"
+
   cover = "images/cover.jpg"
   author = "Jan Čislinský"
-  bio= "iOS developer ve společnosti Etnetera a.s."
+  bio= "Lead iOS developer ve společnosti Etnetera a.s."
   authorlocation = ""
   authorwebsite = ""
   
