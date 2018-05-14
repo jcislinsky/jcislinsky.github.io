@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.jancislinsky.cz/zvednout-to-privacy-policy-sk/</loc>
+    <lastmod>2018-05-14T21:10:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jancislinsky.cz/zvednout-to-privacy-policy-cz/</loc>
+    <lastmod>2018-05-14T21:10:04+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jancislinsky.cz/kontakt/</loc>
     <lastmod>2016-01-13T17:09:38+01:00</lastmod>
   </url>
@@ -14,7 +24,7 @@
   
   <url>
     <loc>https://www.jancislinsky.cz/</loc>
-    <lastmod>2016-01-13T17:09:38+01:00</lastmod>
+    <lastmod>2018-05-14T21:10:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
