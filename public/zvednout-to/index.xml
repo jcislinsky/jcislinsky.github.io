@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jan Čislinský</title>
-    <link>https://www.jancislinsky.cz/</link>
-    <description>Recent content on Jan Čislinský</description>
+    <title>Zvednout-tos on Jan Čislinský</title>
+    <link>https://www.jancislinsky.cz/zvednout-to/</link>
+    <description>Recent content in Zvednout-tos on Jan Čislinský</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>© 2018</copyright>
     <lastBuildDate>Mon, 14 May 2018 21:10:04 +0200</lastBuildDate>
     
-	<atom:link href="https://www.jancislinsky.cz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jancislinsky.cz/zvednout-to/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@ Zaobchádzanie s vašimi údajmi Aplikácia Zdvihnúť to? nemá prístup k žia
       <guid>https://www.jancislinsky.cz/zvednout-to/privacy-policy/cz/</guid>
       <description>Zásady ochrany osobních údajů mobilní aplikace Zvednout to? Informace o telefonních hovorech Aplikace Zvednout to? nemá přístup k žádným údajům o vašich telefonních hovorech, ani v čase příchozího hovoru ani k historii vašich telefonních hovorů. Aplikace jen poskytuje seznam telefonních čísel z naší databáze systému iOS a ten zabezpečuje samotnou identifikace otravných a škodlivých čísel z tohoto seznamu.
 Zacházení s vašimi údaji Aplikace Zvednout to? nemá přístup k žádným osobním údajům, ani její používání nevyžaduje zadání žádných vašich osobních nebo jiných údajů.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://www.jancislinsky.cz/kontakt/</link>
-      <pubDate>Wed, 13 Jan 2016 17:09:38 +0100</pubDate>
-      
-      <guid>https://www.jancislinsky.cz/kontakt/</guid>
-      <description>Kontaktujte mě prostřednictvím e-mailové adresy, nebo využijte některé ze sociálních sítí.</description>
     </item>
     
   </channel>
