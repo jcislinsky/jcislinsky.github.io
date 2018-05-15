@@ -1,4 +1,6 @@
 ---
+author: ""
+share: false
 title: "Zvednout to?"
 date: 2018-05-14T21:10:04+02:00
 draft: false
