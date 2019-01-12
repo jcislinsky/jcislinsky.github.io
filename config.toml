@@ -22,9 +22,13 @@ theme = "casper"
   myApp1Name = "Zvednout to?"
   myApp1Url = "http://apple.co/2jsfavB"
 
-  myApp2Image = "images/app-siever.png"
-  myApp2Name = "Siever"
-  myApp2Url = "https://itunes.apple.com/us/app/siever/id1276667985?ls=1&mt=8"
+  myApp2Image = "images/app-betpivot.png"
+  myApp2Name = "BetPivot"
+  myApp2Url = "https://www.betpivot.com"
+
+  myApp3Image = "images/app-siever.png"
+  myApp3Name = "Siever"
+  myApp3Url = "https://itunes.apple.com/us/app/siever/id1276667985?ls=1&mt=8"
 
   cover = "images/cover.jpg"
   author = "Jan Čislinský"
