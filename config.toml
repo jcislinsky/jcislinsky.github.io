@@ -16,7 +16,7 @@ theme = "casper"
 [params]
   description = "Lead iOS Engineer at JLL"
 
-  workingOn = "Active Development"
+  workingOn = "Working on"
 
   workingOn1Image = "images/app-jill.png"
   workingOn1Name = "JiLL by JLL"
@@ -30,11 +30,11 @@ theme = "casper"
 
   myApp2Image = "images/app-betpivot.png"
   myApp2Name = "BetPivot"
-  myApp2Url = "https://www.betpivot.com"
+  myApp2Url = ""
 
   myApp3Image = "images/app-siever.png"
   myApp3Name = "Siever"
-  myApp3Url = "https://itunes.apple.com/us/app/siever/id1276667985?ls=1&mt=8"
+  myApp3Url = ""
 
   cover = "images/cover.jpg"
   author = "Jan Čislinský"
