@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Čislinský</title>
     <link>https://www.jancislinsky.cz/</link>
     <description>Recent content on Jan Čislinský</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cs-cz</language>
-    <copyright>© 2018</copyright>
+    <language>en-us</language>
+    <copyright>© 2020</copyright>
     <lastBuildDate>Mon, 14 May 2018 21:10:04 +0200</lastBuildDate>
     
 	<atom:link href="https://www.jancislinsky.cz/index.xml" rel="self" type="application/rss+xml" />
@@ -38,7 +38,7 @@ Zacházení s vašimi údaji Aplikace Zvednout to? nemá přístup k žádným o
       <pubDate>Wed, 13 Jan 2016 17:09:38 +0100</pubDate>
       
       <guid>https://www.jancislinsky.cz/kontakt/</guid>
-      <description>Kontaktujte mě prostřednictvím e-mailové adresy, nebo využijte některé ze sociálních sítí.</description>
+      <description>Kontaktujte mě prostřednictvím některé ze sociálních sítí.</description>
     </item>
     
   </channel>

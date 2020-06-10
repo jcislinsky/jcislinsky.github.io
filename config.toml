@@ -1,22 +1,28 @@
 BaseUrl= "https://www.jancislinsky.cz/"
-LanguageCode= "cs-cz"
+LanguageCode= "en-us"
 Title= "Jan Čislinský"
 # paginate = 5
 DisqusShortname = "jancislinsky"
-Copyright = "© 2018"
+Copyright = "© 2020"
 canonifyurls = true
 theme = "casper"
 
 [[menu.main]]
-  name = "Úvodní stránka"
+  name = "Home"
   weight = -120
   identifier = "home"
   url = "/"
   
 [params]
-  description = "Lead iOS developer ve společnosti Etnetera a.s."
+  description = "Lead iOS Engineer at JLL"
 
-  myApps = "Moje aplikace"
+  workingOn = "Active Development"
+
+  workingOn1Image = "images/app-jill.png"
+  workingOn1Name = "JiLL by JLL"
+  workingOn1Url = "https://apps.apple.com/us/app/jill-by-jll/id1450809983?ls=1"
+
+  myApps = "My applications"
 
   myApp1Image = "images/app-zvednout-to.png"
   myApp1Name = "Zvednout to?"
@@ -32,7 +38,7 @@ theme = "casper"
 
   cover = "images/cover.jpg"
   author = "Jan Čislinský"
-  bio= "Lead iOS developer ve společnosti Etnetera a.s."
+  bio= "Lead iOS Engineer at JLL"
   authorlocation = ""
   authorwebsite = ""
   

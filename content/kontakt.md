@@ -12,4 +12,4 @@ title = "Kontakt"
 description = ""
 
 +++
-Kontaktujte mě prostřednictvím <a href="mailto:jan.cislinsky@etnetera.cz">e-mailové adresy</a>, nebo využijte některé ze sociálních sítí.
+Kontaktujte mě prostřednictvím některé ze sociálních sítí.
